@@ -65,3 +65,7 @@ The [idle-dev mailing list](https://mail.python.org/mailman/listinfo/idle-dev). 
 ###Q: Are there other projects based off of IDLE?
 
 [IdleX](http://idlex.sourceforge.net/) extends the functionality of IDLE with new features. [VIDLE for VPython](http://www.vpython.org/index.html) is also derived from the IDLE codebase.
+
+###Q: How do I run the IDLE tests?
+
+TODO
